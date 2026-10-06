@@ -1,0 +1,6 @@
+ollama
+requests
+SpeechRecognition
+sounddevice
+numpy
+pyttsx3
